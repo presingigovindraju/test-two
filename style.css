@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+*{
+    background-color:#dcdcde;
+    font-family: 'Inter', sans-serif;
+}
+#nav{
+    
+    color:white;
+    background-color:black;
+    padding:10px;
+    position: fixed;
+    top: 0px;
+    margin:-8px;
+}
+#nav>h1{
+    display:inline-block;
+    width:900px;
+    padding-left: 9px;
+    font-size: 15px;
+    background-color: black;
+    font-family: 'Inter', sans-serif;
+}
+#nav>a{
+    text-decoration: none;
+    background-color: black;
+    padding-inline: 2px;
+    color:white;
+    font-family: 'Inter', sans-serif;
+    font-size:14px;
+}
+.Books{
+    margin-top:50px;
+    margin-left: 250px;
+    border-radius: 5px;
+    width:600px;
+    height:650px;
+    background-color:white;
+}
+.Books>h1{
+    background-color:white;
+    border-radius: 5px;
+    font-family: 'Inter', sans-serif;
+    padding-left: 10px;
+    padding-top: 15px;
+    font-size: 20px;
+    font-weight:bolder;
+
+}
+#ramana{
+    width:500px;
+
+    height: 50px;
+}
+
+.you{
+    background-color: white;
+}
+#win{
+    background-color: white;
+    margin: 8px;
+}
+.en{
+    background-color: white;
+    font-size: small;
+}
+
+
+
+#Register{
+    margin-top:20px;
+    margin-left: 250px;
+    border-radius: 5px;
+    width:600px;
+    height:450px;
+    background-color:white;
+}
+
+#Register>h1{
+    background-color:white;
+    border-radius: 5px;
+    font-family: 'Inter', sans-serif;
+    padding-left: 10px;
+    padding-top: 15px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+#Register-1{
+    background-color: white;
+}
+#ya{
+    text-align: center;
+    border-style: none;
+    width: 590px;
+    color:white;
+    background-color: black;
+    margin-inline: 6px;
+    cursor: pointer;
+}
+.k{
+    margin:10px;
+    background-color: white;
+    
+}
+[type="text"]{
+    background: white;
+    border-style: solid;
+    border-width: 1px;
+    width: 540px;
+}
+
+[type="password"]{
+    background: white;
+    border-style: solid;
+    border-width: 1px;
+}
+[type="number"]{
+    background: white;
+    border-style: solid;
+    border-width: 1px;
+}
+.j{
+    background: white;
+   
+}
+[type="Date"]{
+    background: white;
+    border-style: solid;
+    border-width: 1px;
+    width: 542px;
+}
